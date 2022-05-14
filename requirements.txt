@@ -1,0 +1,8 @@
+asgiref==3.5.0
+Django==4.0.4
+sqlparse==0.4.2
+uWSGI>=2.0.19,<2.1
+psycopg2
+psycopg2-binary
+djangorestframework
+djangorestframework_simplejwt
